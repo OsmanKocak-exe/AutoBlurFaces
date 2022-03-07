@@ -8,7 +8,7 @@ Compatible with Windows 10 64-bit version.<br />
 
 
 ### Select Image & Blur filter level, click APPLY BLUR button &amp;
-![alt text](https://i.ibb.co/fDwPqqn/aiautoblur.pn)
+![alt text](https://i.ibb.co/Dr2Szz8/aiautoblur.png)
 
 img: https://ibb.co/fDwPqqn
 
