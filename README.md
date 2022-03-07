@@ -15,4 +15,4 @@ Compatible with Windows 10 64-bit version.<br />
 
 img: https://ibb.co/fDwPqqn
 
-Download link : App develop On progress!
+Download link : https://drive.google.com/file/d/1BqaYyrgkUE8vv_ei6XzOyfFwlrsJ78Vs/view?usp=sharing
